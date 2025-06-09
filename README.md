@@ -165,7 +165,7 @@ graph LR
 <div align="center">
 
 <audio controls loop>
-  <source src="https://open.spotify.com/embed/track/1vwrRJ5UCk3vELgvE3QxVv" type="audio/mpeg">
+  <source src="https://open.spotify.com/intl-id/track/18nZWRpJIHzgb1SQr4ncwb?si=a6762696b35944fd" type="audio/mpeg">
   🎵 **Now Playing:** aespa - Supernova 🎵
 </audio>
 
