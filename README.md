@@ -117,13 +117,6 @@ const rangga = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/ranggacey/ranggacey/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
