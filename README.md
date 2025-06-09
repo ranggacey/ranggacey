@@ -11,8 +11,7 @@
 ---
 
 ## 🚀 About Me
-
-```typescript
+typescript
 const rangga = {
     location: "Indonesia 🇮🇩",
     role: "Full Stack Web Developer",
@@ -24,7 +23,6 @@ const rangga = {
     hobbies: ["Coding", "Learning new tech", "Open Source"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
-```
 
 ---
 
