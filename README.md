@@ -169,7 +169,7 @@ graph LR
   🎵 **Now Playing:** aespa - Supernova 🎵
 </audio>
 
-[![Spotify](https://img.shields.io/badge/Now%20Playing-aespa%20Supernova-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1vwrRJ5UCk3vELgvE3QxVv)
+[![Spotify](https://img.shields.io/badge/Now%20Playing-aespa%20Supernova-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/track/18nZWRpJIHzgb1SQr4ncwb?si=a6762696b35944fd)
 
 </div>
 
@@ -189,47 +189,7 @@ graph LR
 
 </div>
 
----
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 30 mins   ████████████░░░   40.2%
-PHP          6 hrs 15 mins   ██████████░░░░░   29.5%
-JavaScript   3 hrs 45 mins   ██████░░░░░░░░░   17.8%
-Vue.js       1 hr 30 mins    ███░░░░░░░░░░░░    7.1%
-HTML/CSS     1 hr 10 mins    ██░░░░░░░░░░░░░    5.4%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 2024 Goals
-
-- [ ] Contribute to more open source projects
-- [ ] Master advanced TypeScript patterns
-- [ ] Build a SaaS application with Laravel & React
-- [ ] Learn DevOps and cloud deployment
-- [ ] Write technical blog posts
-- [ ] Mentor junior developers
-
----
-
-## 🤝 Support My Work
-
-<div align="center">
-
-If you like my work, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ranggacey)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ranggacey)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💭 Random Dev Quote
 
