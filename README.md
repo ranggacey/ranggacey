@@ -11,7 +11,8 @@
 ---
 
 ## 🚀 About Me
-typescript
+
+```typescript
 const rangga = {
     location: "Indonesia 🇮🇩",
     role: "Full Stack Web Developer",
@@ -23,6 +24,7 @@ const rangga = {
     hobbies: ["Coding", "Learning new tech", "Open Source"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
+```
 
 ---
 
@@ -158,11 +160,16 @@ graph LR
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://novatorem-ranggacey.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+<audio controls loop>
+  <source src="https://open.spotify.com/embed/track/1vwrRJ5UCk3vELgvE3QxVv" type="audio/mpeg">
+  🎵 **Now Playing:** aespa - Supernova 🎵
+</audio>
+
+[![Spotify](https://img.shields.io/badge/Now%20Playing-aespa%20Supernova-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1vwrRJ5UCk3vELgvE3QxVv)
 
 </div>
 
@@ -173,10 +180,10 @@ graph LR
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rangga-figo-hidayat)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rangga_tempestt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranggacey)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ranggacey)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ranggacey)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggadanceyong@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rangga.figo@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ranggacey.dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ranggacey)
 
@@ -188,9 +195,9 @@ graph LR
 
 <!--START_SECTION:waka-->
 ```text
-JavaSript   8 hrs 30 mins   ████████████░░░   40.2%
+TypeScript   8 hrs 30 mins   ████████████░░░   40.2%
 PHP          6 hrs 15 mins   ██████████░░░░░   29.5%
-TypeScript   3 hrs 45 mins   ██████░░░░░░░░░   17.8%
+JavaScript   3 hrs 45 mins   ██████░░░░░░░░░   17.8%
 Vue.js       1 hr 30 mins    ███░░░░░░░░░░░░    7.1%
 HTML/CSS     1 hr 10 mins    ██░░░░░░░░░░░░░    5.4%
 ```
